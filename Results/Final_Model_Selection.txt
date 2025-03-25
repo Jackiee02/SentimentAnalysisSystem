@@ -1,0 +1,7 @@
+=== Baseline Experiment: LSTM ===
+=== Baseline Experiment: TRANSFORMER ===
+=== Final Model Selection ===
+Final LSTM model saved to 'E:\ProgramFiles\PycharmProjects\PythonProject\Results\FinalModel\lstm_final_model.pth'
+Final Transformer model saved to 'E:\ProgramFiles\PycharmProjects\PythonProject\Results\FinalModel\transformer_final_model.pth'
+LSTM and Transformer final predictions CSV files saved.
+All experiments completed. Please check the 'Results' folder for images and CSV files.
