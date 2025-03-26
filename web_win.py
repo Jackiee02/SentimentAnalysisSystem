@@ -8,11 +8,11 @@ import re
 from collections import Counter
 
 # Set paths
-BASE_DIR = 'C:\\Users\\Daniel ZHAO\\AIBA\\Deep_Learning\\dlgp'
-MODEL_DIR = os.path.join(BASE_DIR, 'code___', 'Results', 'FinalModel')
+BASE_DIR = 'E:\\ProgramFiles\\PycharmProjects'
+MODEL_DIR = os.path.join(BASE_DIR, 'PythonProject', 'Results', 'FinalModel')
 LSTM_MODEL_PATH = os.path.join(MODEL_DIR, 'lstm_final_model.pth')
 TRANSFORMER_MODEL_PATH = os.path.join(MODEL_DIR, 'transformer_final_model.pth')
-DATA_PATH = os.path.join(BASE_DIR, 'code___', 'sentiment_analysis.csv')
+DATA_PATH = os.path.join(BASE_DIR, 'PythonProject', 'sentiment_analysis.csv')
 
 # Device configuration
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
