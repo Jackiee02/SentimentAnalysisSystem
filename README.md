@@ -140,19 +140,6 @@ Below is an explanation of the main files and directories in the project:
 
 ---
 
-## Contribution Guidelines
-
-We welcome contributions to this project! Please follow these steps:
-1. Fork this repository.
-2. Create your feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a Pull Request.
-
-Ensure your code adheres to the project's coding standards and includes necessary tests.
-
----
-
 ## License
 
 This project is licensed under the MIT License.
