@@ -156,12 +156,3 @@ Ensure your code adheres to the project's coding standards and includes necessar
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-   - If the project includes a `requirements.txt` file, users can use it directly; otherwise, manual installation commands are provided.
-
-4. **Language**:
-   - The content is written in English to align with GitHub README conventions, while retaining some Chinese in the introductory note per your request for clarity.
-
-This README is clear, concise, and covers all critical aspects of the project, making it ready for use in a GitHub repository. If you have additional requests (e.g., adding badges, modifying the structure), please let me know!
