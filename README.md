@@ -2,6 +2,7 @@
 
 This is a sentiment analysis project implemented using Bidirectional Long Short-Term Memory (BiLSTM) networks and a BERT-based Transformer model. The project provides features for data preprocessing, model training, evaluation, and a web interface for real-time sentiment prediction, making it suitable for processing text data and analyzing its sentiment tendencies.
 
+Youtube Link: https://youtu.be/J8GCeezHulU
 ---
 
 ## Project Overview
